@@ -16,6 +16,4 @@ The "Open gift form" button currently points to the Google Form link supplied in
 3. Change `index.html` for text and links, or `style.css` for appearance.
 4. Commit/upload the changed files to your GitHub repository.
 5. Redeploy your site on your hosting platform.
-
-## Safety
-This is clearly labelled as a fictional security-awareness simulation and is not affiliated with Snapchat or Snap Inc. It does not request, transmit, or store Snapchat passwords, one-time codes, or recovery codes.
+, or recovery codes.
